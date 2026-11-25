@@ -1,0 +1,24 @@
+name: oyun_zindan_ustasi
+description: "Zindan Ustası – Strateji ve Roguelike merkez uygulamasının oyunu."
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 03712efb1978a621943ed9b91d98e4fcad629898
+  strateji_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/strateji-motoru
+      ref: 38fb4a2b7bab710b687caaec9b26bd1742090cce
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
