@@ -12,11 +12,11 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 03712efb1978a621943ed9b91d98e4fcad629898
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   strateji_motoru:
     git:
       url: https://github.com/taktemurr-ops/strateji-motoru
-      ref: 38fb4a2b7bab710b687caaec9b26bd1742090cce
+      ref: 58aaa5456036b57a3001cf22f2329a59d412e45b
 
 dev_dependencies:
   flutter_test:
